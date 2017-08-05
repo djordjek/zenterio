@@ -1,1 +1,1 @@
-r1 2
+r1 local_r2 merged
